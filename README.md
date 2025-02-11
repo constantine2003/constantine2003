@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Montesclaros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=constantine2003&label=Profile%20views&color=0e75b6&style=flat" alt="constantine2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=constantine2003" alt="constantine2003" /></a> </p>
-
 - ⚡ Fun fact **god complex**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=constantine2003&show_icons=true&locale=en" alt="constantine2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=constantine2003&" alt="constantine2003" /></p>

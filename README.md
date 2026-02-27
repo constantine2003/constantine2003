@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Daniel Montesclaros**
+#  Hey, I'm **Daniel Montesclaros**
 
 ### Full Stack Developer | Computer Engineer | Hobbyist
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a full-stack developer who genuinely loves solving complex problems and building systems that scale. From frontend to cloud infrastructure, I create seamless experiences and maintainable code that teams are proud to work with.
 
@@ -25,7 +25,7 @@ I'm a full-stack developer who genuinely loves solving complex problems and buil
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -67,9 +67,9 @@ I'm a full-stack developer who genuinely loves solving complex problems and buil
 ---
 
 
-## 🏆 Featured Projects
+##  Featured Projects
 
-### 🚀 ArchiveStream
+###  ArchiveStream
 **A serverless, browser-based document assembly engine**
 
 High-fidelity PDF manipulation with privacy-first architecture. Real-time visual reordering, selective page extraction, and client-side compression—zero server overhead.
@@ -79,7 +79,7 @@ High-fidelity PDF manipulation with privacy-first architecture. Real-time visual
 
 ---
 
-### 🎮 MacroLoop
+###  MacroLoop
 **Cross-platform desktop macro recorder**
 
 Record and replay mouse movements, clicks, and keyboard input with configurable loops, speed control, global hotkeys, and intelligent color tracking. Works seamlessly on Windows, macOS, and Linux.
@@ -89,7 +89,7 @@ Record and replay mouse movements, clicks, and keyboard input with configurable 
 
 ---
 
-### 🧠 Morph.ai
+###  Morph.ai
 **AI-powered GitHub repository analyzer**
 
 Transforms complex repositories into high-level architectural visualizations. Eliminates LLM hallucinations and optimizes performance across distributed AI models.
@@ -100,7 +100,7 @@ Transforms complex repositories into high-level architectural visualizations. El
 ---
 
 
-## 💻 Complete Tech Expertise
+##  Complete Tech Expertise
 
 <div align="center">
 

@@ -2,7 +2,7 @@
 
 #  Hey, I'm **Daniel Montesclaros**
 
-### Full Stack Developer | Computer Engineer | Hobbyist
+### Full Stack Developer | Computer Engineering | Embedded Developer
 
 ⚡ **Fun fact god complex** – I dive obsessively into how things work
 
